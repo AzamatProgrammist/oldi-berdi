@@ -1,0 +1,145 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.container{
+	width: 70%;
+	margin: auto;
+}
+.container .box{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.container .box a{
+	text-decoration: none;
+}
+.h2Qarz{
+	text-align: center;
+	padding: 20px;
+}
+.container .form{
+	width: 50%;
+	margin: auto;
+}
+.form input{
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+	margin-top: 5px;
+	padding: 5px 0px;
+}
+.form .btn{
+	width: 100%;
+	padding: 5px 0px;
+	cursor: pointer;
+}
+.form .centir{
+	text-align: center;
+	margin: 20px;
+}
+.img{
+	width: 100%;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 50%;
+}
+#header{
+	background-color: #555;
+	padding: 20px;
+	color: yellow;
+	font-family: sans-serif;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.header{
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.header:hover{
+	color: yellow;
+}
+#header h2{
+	display: inline-block;
+}
+#header form{
+	display: inline-block;
+	float: right;
+	box-sizing: border-box;
+}
+#header form input{
+	padding: 5px;
+	box-sizing: border-box;
+}
+.btn{
+	padding: 5px;
+	background-color: yellow;
+	color: #222;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+.yellow td{
+	color: black;
+}
+.table{
+	width: 100%;
+	border-collapse: collapse;
+}
+.thead tr th{
+	border: 1px solid #333;
+	padding: 10px;
+}
+.tbody tr td{
+	border: 1px solid #333;
+	padding: 5px;
+	color: black;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+
+}
+
+.blue{
+	background-color: blue;
+}
+
+.RangBer{
+	background-color: #aade11;
+
+}
+.RangBerma{
+	background-color: #fdaee9;
+}
+.button{
+	width: 100%;
+	padding: 20px;
+}
+.clr{
+	clear: both;
+}
+.insert{
+	text-decoration: none;
+	background-color: yellow;
+	color: #333;
+	font-family: sans-serif;
+	padding: 20px;
+	font-size: 18px;
+	box-sizing: border-box;
+}
+.insert:hover{
+	background-color: #999;
+	color: #fff;
+}
+tbody td a{
+	text-decoration: none;
+	color: #111;
+	font-family: sans-serif;
+}

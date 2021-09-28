@@ -1,0 +1,87 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #1f3f52;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	box-sizing: border-box;
+}
+
+#fon{
+	width: 40%;
+	margin: auto;
+	padding: 30px;
+
+}
+#fon .Bformasi{
+	box-sizing: border-box;
+	background-color: #fff;
+	padding: 10px 20px;
+}
+
+#fon h3, #fon p, #fon1 h3, #fon1 p{
+	padding-top: 10px;
+	text-align: center;
+
+}
+#fon p{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#fon input, #fon1 input, textarea{
+	padding: 5px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.form{
+	display: inline-block;
+}
+#fon button, #fon1 button{
+	width: 100%;
+	background-color: #1dea31;
+	cursor: pointer;
+	border: none;
+	border-radius: 10px;
+	padding: 4px 0px;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+#fon button:hover, #fon1 button:hover{
+	background-color: #ad1;
+}
+.button {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+	border-radius: 7px;
+	padding: 6px 7px;
+}
+.button a{
+	text-decoration: none;
+	color: yellow;
+	display: inline-block;
+}
+
+.button:hover {
+	background-color: #555;
+	cursor: pointer;
+	color: #333;
+}
+.Registr{
+	float: right;
+	padding: 20px;
+}
+.Registr a{
+	color: #fff;
+	text-decoration: none;
+}
+.Registr a:hover{
+	color: red;
+}
